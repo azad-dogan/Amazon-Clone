@@ -4,4 +4,4 @@
 
 ### Technologies used (HTML, CSS)
 
-!()[screen.gif]
+![](screen.gif)
